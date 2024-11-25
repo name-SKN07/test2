@@ -1,0 +1,17 @@
+#square {
+    width: 100px;
+    height: 100px;    background-color: blue;
+    margin: 20px 0;}
+
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;}
+#counter {
+    font-size: 5rem;
+    color: #333;}
